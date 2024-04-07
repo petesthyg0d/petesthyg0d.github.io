@@ -1,6 +1,18 @@
-<p align="center" style="background-color: black; color: white;">
-  <h1>GHS <br> National Stem Honor Society <br> w/ Dr. Abby in S-3</h1>
-</p>
+<div class="header">
+  <p>
+    <h1>GHS <br> National Stem Honor Society <br> w/ Dr. Abby in S-3</h1>
+  </p>
+</div>
+
+<style>
+  .header {
+    padding: 60px;
+    text-align: center;
+    background: #1abc9c;
+    color: white;
+    font-size: 30px;
+  }
+</style>
 
 Simple overview of use/purpose.
 
