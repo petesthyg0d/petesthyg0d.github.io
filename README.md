@@ -1,4 +1,10 @@
-# Project Title
+/*Heading*/
+<p align="center">
+  <h1>GHS</h1>
+  <h1>National Stem Honor Society</h1>
+  <h1>w/ Dr.Abby in S-3</h1>
+</p>
+/*Heading*/
 
 Simple overview of use/purpose.
 
